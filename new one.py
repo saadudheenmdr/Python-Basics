@@ -1,0 +1,5 @@
+name=input("Enter Your Name : ")
+age=int(input("Enter Your age : "))
+Place=input("Enter your place : ")
+state=input("Enter your state : ")
+print(f"My name is {name}, \n iam {age} years old, \n my place is {Place}, \n my state is {state}")
