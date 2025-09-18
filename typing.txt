@@ -1,0 +1,3 @@
+Branching in Git is a mechanism that allows you to create an
+ independent line of development
+ within your repository. Think of it as creating a copy of your
