@@ -1,4 +1,5 @@
 \sample_folder
+\another.py
 *.jpeg
 *.jpg
 *.png
